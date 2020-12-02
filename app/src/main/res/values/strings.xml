@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">restaurantes</string>
+    <string name="App_name">Refeições</string>
+    <string name="Password_hint">Password</string>
+    <string name="Email_hint">Email</string>
+    <string name="EsqueceuSenha_hint">Esqueceu sua senha?</string>
+    <string name="login_hint">Entrar</string>
+    <string name="criarconta_hint">Criar uma conta</string>
+    <string name="frase_sobre_senha">Digite se email, para fazer \n a verificação da senha</string>
+    <string name="possuiconta">Ja tenho uma conta!</string>
+    <string name="Nome_hint">Nome Completo</string>
+    <string name="confirmar_palavrapasse_hint">Confirmar password</string>
+    <string name="regist_hint">Registar</string>
+    <string name="continuar">Continue</string>
+</resources>
